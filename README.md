@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Verma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **ReactJs,NextJs**
 
 - 💬 Ask me about **ReactJS, Blockchain technologies**
 
